@@ -17,7 +17,7 @@ The final classification is done based on the averaged predictions.
 Installation & Setup
 1. Clone the repository
 git clone https://github.com/phantomkali/Federated-learning.git
-cd vertical-federated-learning
+cd Federated-learning
 2. Install dependencies
 
 pip install -r requirements.txt
