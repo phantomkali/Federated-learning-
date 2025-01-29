@@ -16,8 +16,6 @@ The two trained models are combined by summing their outputs.
 The final classification is done based on the averaged predictions.
 Installation & Setup
 1. Clone the repository
-bash
-Copy
 git clone https://github.com/phantomkali/Federated-learning.git
 cd vertical-federated-learning
 2. Install dependencies
@@ -33,7 +31,11 @@ torchvision
 numpy
 Files
 train.py: Main script to train and evaluate the federated learning models.
-
+RESULTS
+Accuracy: 87.47%(with FED AVG)
+WITH FED PROX FOR BOTH CLIENTS
+Accuracy: 49.30%
+Accuracy: 50.70%
 Future Improvements
 Use Secure Aggregation to ensure privacy when averaging weights.
 Improve model architecture for better feature extraction.
