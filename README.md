@@ -18,7 +18,7 @@ Installation & Setup
 1. Clone the repository
 bash
 Copy
-git clone https://github.com/your-repo/vertical-federated-learning.git
+git clone https://github.com/phantomkali/Federated-learning.git
 cd vertical-federated-learning
 2. Install dependencies
 
